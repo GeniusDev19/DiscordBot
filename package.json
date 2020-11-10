@@ -1,0 +1,11 @@
+{
+  "name": "simplebot",
+  "version": "1.0.0",
+  "description": "this is my test bot.coded by GENiUSKID19(thats my user)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "i cant say my name sorry",
+  "license": "ISC"
+}
